@@ -1,0 +1,8 @@
+__title__ = "sessiontracer"
+__description__ = "Request's package session tracer."
+__url__ = "https://github.com/gabriel885/session-tracer"
+__version__ = "1.0.0"
+__author__ = "Gabriel Munits"
+__author_email__ = "gabrielmunits@gmail.com"
+__license__ = "MIT License"
+__copyright__ = "Copyright 2022 Gabriel Munits"
